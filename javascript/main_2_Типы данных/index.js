@@ -49,7 +49,7 @@ const PERSON = {
     'name': 'Daniil',
     'secondName': "Shilo",
     'sayHello': console.log("Hello")
-}
+};
 
 // Массив
 let names = ['Daniil', 'Masha', 'Katya', 'Igor', 'Konstantin', 'Ilya', 'Alexandra'];
