@@ -2,8 +2,8 @@
 Данная директория используется для изучения Javascript.
 
 Все дочерние директории названы следующим образом:
-`[Difficulty]-NameOfTopic_[NameOfSubTopic]`
+`NameOfTopic_topic-number_NameOfSubTopic`
 
-* _Difficulty_ - сложность (варьируется от 1 до 5);
+* _topic-number_ - порядковый номер подтемы;
 * _NameOfTopic_ - название темы;
 * _NameOfSubtopic_ - название подтемы.
