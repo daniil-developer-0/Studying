@@ -40,7 +40,7 @@
 
 | Тема                                                          | Сложность | Теги                 | Изучена (если да, то предоставляется ссылка) |
 |:------------------------------------------------------------- |:---------:|:--------------------:|:--------------------------------------------:|
-| HTTP                                                          | 1         | #internet, #networks | Нет                                          |
+| HTTP                                                          | 1         | #internet, #networks | [Да](https://github.com/daniilshilo-developer/Studying/tree/master/http)|
 | HTTPS                                                         | 1         | #internet, #networks | Нет                                          |
 | Работа с DOM посредством JavaScript                           | 2         | #javascript          | Нет                                          |
 | Взаимодействие с API с помощью Fetch API или подобных средств | 3         | #API                 | Нет                                          |
